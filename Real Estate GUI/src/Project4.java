@@ -1,5 +1,5 @@
 /*
- * File: StateChangeable.java
+ * File: Project4.java
  * Purpose: manage real estate database using GUI
  */
 import javax.swing.*;

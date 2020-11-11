@@ -1,5 +1,5 @@
 /*
- * File: StateChangeable.java
+ * File: Property.java
  * Purpose: manage real estate database using GUI
  */
 
