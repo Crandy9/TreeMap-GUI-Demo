@@ -1,8 +1,5 @@
 /*
- * File: Project4.java
- * Date: October 14, 2020
- * Professor: Teresa Fernandez
- * CMIS 242
+ * File: StateChangeable.java
  * Purpose: manage real estate database using GUI
  */
 import javax.swing.*;
